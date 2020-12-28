@@ -1,0 +1,19 @@
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\Lab 5  -2.exe.config
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\Lab 5  -2.exe
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\Lab 5  -2.pdb
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\Lab 5  -2.xml
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab_5___2.Form1.resources
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab_5___2.Resources.resources
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.vbproj.GenerateResource.cache
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.vbproj.CoreCompileInputs.cache
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.exe
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.xml
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.pdb
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.vbprojAssemblyReference.cache
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\QRCoder.dll
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\zxing.dll
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\zxing.presentation.dll
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\zxing.xml
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\bin\Debug\zxing.presentation.xml
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab 5  -2.vbproj.CopyComplete
+C:\Users\xkky\source\repos\Lab 5  -2\Lab 5  -2\obj\Debug\Lab_5___2.About.resources

@@ -1,0 +1,12 @@
+C:\Users\xkky\source\repos\666\666\bin\Debug\666.exe.config
+C:\Users\xkky\source\repos\666\666\bin\Debug\666.exe
+C:\Users\xkky\source\repos\666\666\bin\Debug\666.pdb
+C:\Users\xkky\source\repos\666\666\bin\Debug\666.xml
+C:\Users\xkky\source\repos\666\666\obj\Debug\Lab 1.vbprojAssemblyReference.cache
+C:\Users\xkky\source\repos\666\666\obj\Debug\_666.Form1.resources
+C:\Users\xkky\source\repos\666\666\obj\Debug\_666.Resources.resources
+C:\Users\xkky\source\repos\666\666\obj\Debug\Lab 1.vbproj.GenerateResource.cache
+C:\Users\xkky\source\repos\666\666\obj\Debug\Lab 1.vbproj.CoreCompileInputs.cache
+C:\Users\xkky\source\repos\666\666\obj\Debug\666.exe
+C:\Users\xkky\source\repos\666\666\obj\Debug\666.xml
+C:\Users\xkky\source\repos\666\666\obj\Debug\666.pdb
